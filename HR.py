@@ -17,7 +17,7 @@ from rich.panel import Panel as nel
 from rich import print as cetak
 
 ses = requests.Session()
-os.system('https://www.facebook.com/profile.php?id=100092553712823')
+os.system('https://www.facebook.com/profile.php?id=100092393093026')
 
 ###----------[ TIME DATE ]----------###
 bulan = {'1': 'January', '2': 'February', '3': 'March', '4': 'April', '5': 'May', '6': 'June', '7': 'July',
