@@ -9,7 +9,6 @@ from time import sleep as jeda
 from time import strftime
 from random import choice
 from pathlib import Path
-from rich.console import Console as sol
 from rich.markdown import Markdown as mark
 from rich.columns import Columns as col
 from rich.text import Text as tekz
